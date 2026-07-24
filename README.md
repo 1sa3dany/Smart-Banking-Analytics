@@ -22,3 +22,6 @@ This phase of the project represents the **Data Analysis & Business Intelligence
 ## 🤝 Next Steps for the Team
 * **Sandra (AI Engineer):** The Fraud Dashboard and underlying data are ready to be utilized for training the Fraud Detection Model.
 * **Mohamed (Frontend/Docs):** The SQL query files are ready to be integrated and visualized within the Streamlit interface.
+
+## 🔗 Repository
+* **Main Project GitHub:** [Insert your GitHub link here]
