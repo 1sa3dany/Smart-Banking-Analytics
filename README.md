@@ -24,4 +24,5 @@ This phase of the project represents the **Data Analysis & Business Intelligence
 * **Mohamed (Frontend/Docs):** The SQL query files are ready to be integrated and visualized within the Streamlit interface.
 
 ## 🔗 Repository
-* **Main Project GitHub:** https://github.com/sandraelia117/Smart-Banking-Analytics-Fraud-Detection-System
+* **Main Project GitHub:** https://github.com/sandraelia117/Smart-Banking-Analytics-Fraud-Detection-System-
+  
